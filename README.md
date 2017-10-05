@@ -7,11 +7,11 @@ Inspired by [react-native-refreshable-listview](https://github.com/jsdf/react-na
 
 ##### iOS
 
-![iOS](./screenshots/iOS.gif)
+![iOS](http://o9xbuqgcs.bkt.clouddn.com/iOS.gif)
 
 ##### Android
 
-![Android](./screenshots/Android.gif)
+![Android](http://o9xbuqgcs.bkt.clouddn.com/Android.gif)
 
 ## Usage
 
