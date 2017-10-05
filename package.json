@@ -1,0 +1,35 @@
+{
+  "name": "react-native-refreshable-flatlist",
+  "version": "0.1.0",
+  "description": "A pull-down-to-refresh and pull-up-to-load-more component based on FlatList, compeletly written in js and is highly customizable.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razor1895/react-native-refreshable-flatlist.git"
+  },
+  "keywords": [
+    "refresh",
+    "pull",
+    "load",
+    "react native",
+    "flatlist",
+    "more"
+  ],
+  "author": "razor1895",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razor1895/react-native-refreshable-flatlist/issues"
+  },
+  "homepage": "https://github.com/razor1895/react-native-refreshable-flatlist#readme",
+  "dependencies": {
+    "is-promise": "^2.1.0",
+    "prop-types": "^15.6.0"
+  }
+}
