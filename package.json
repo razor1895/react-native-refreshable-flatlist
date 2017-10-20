@@ -1,6 +1,6 @@
 {
   "name": "react-native-refreshable-flatlist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A pull-down-to-refresh and pull-up-to-load-more component based on FlatList, compeletly written in js and is highly customizable.",
   "main": "index.js",
   "directories": {
